@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Taxi Việt Nam</string>
+    <string name="country_prompt">Thành Phố</string>
+
+    <string-array name="country_arrays">
+        <item>Hà Nội</item>
+        <item>Hồ Chí Minh</item>
+        <item>Đà Nẵng </item>
+        <item>Bà Rịa - Vũng Tàu</item>
+        <item>Bạc Liêu</item>
+        <item>Bắc Cạn</item>
+    </string-array>
+
+</resources>

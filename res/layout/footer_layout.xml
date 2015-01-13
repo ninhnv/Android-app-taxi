@@ -1,0 +1,40 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center_horizontal"
+    android:background="@drawable/ic_actionbar_bg"
+    style="@style/FooterBar" >
+
+   <!--   <Button
+        android:id="@+id/btn_thich"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Thích" />
+
+    <Button
+        android:id="@+id/btn_gia"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Giá" />
+
+    <Button
+        android:id="@+id/btn_az"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="A-Z"  /> -->
+        
+         <ImageView
+                android:id="@+id/btn_thich"
+                android:layout_width="45dip"
+                android:layout_height="45dip"
+                android:src="@drawable/icon_thic" />
+         <ImageView
+                android:id="@+id/btn_gia"
+                android:layout_width="45dip"
+                android:layout_height="45dip"
+                android:src="@drawable/icon_gia" />
+         <ImageView
+                android:id="@+id/btn_az"
+                android:layout_width="45dip"
+                android:layout_height="45dip"
+                android:src="@drawable/icon_az" />
+	
+</LinearLayout>

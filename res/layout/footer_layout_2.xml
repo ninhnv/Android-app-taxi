@@ -1,0 +1,14 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center_horizontal"
+    android:background="@drawable/ic_actionbar_bg"
+    android:layout_width="fill_parent"
+    android:layout_height="55dp"
+    android:orientation="horizontal">
+
+     <ImageView
+                android:id="@+id/img_call_tx"
+                android:layout_width="55dip"
+                android:layout_height="55dip"
+                android:src="@drawable/call_icon_tx" />
+	
+</LinearLayout>
